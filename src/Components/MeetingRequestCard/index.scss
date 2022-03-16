@@ -1,0 +1,30 @@
+.accept-button{
+    background: #01565B;
+    border-radius: 8px;
+    color: #ABDF3C;
+    font-size: 10px;
+    margin-right: 10px;
+}
+.view-meeting-button{
+    background:#6D6F70;
+    border-radius: 8px;
+    color: #F4FFDC;;
+    font-size: 10px;
+    padding: 8px;
+}
+.meeting-buttons{
+    text-align: end;
+}
+.meeting-card-wrapper{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.event-time-date{
+    text-align: left;
+}
+.timeDate{
+    color: rgba(0, 0, 0, 0.6);
+    text-align: start;
+    font-size: 12px;
+}

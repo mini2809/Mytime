@@ -1,0 +1,25 @@
+.card-wrapper{
+    display:flex;
+    margin-top: 30px;
+}
+.desc-time-div{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.name{
+    text-align: start;
+    line-height: 25px;
+    text-align: start;
+}
+.desc{
+    padding-left: 10px;;
+}
+.medium , .card-time{
+    color: rgba(0, 0, 0, 0.6);
+    text-align: start;
+    font-size: 12px;
+}
+.scehdule-components{
+    margin-bottom: 40px;;
+}

@@ -1,0 +1,93 @@
+.main-container{
+    padding: 20px;
+    width: 100%;
+}
+.title{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 54px;
+    color: #464646;
+    text-align: start;
+}
+.subtitle{
+    font-size: 20px;
+    color: #000000;
+    text-align: start;
+}
+.analysis{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.time{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgba(24, 20, 20, 0.7);
+    text-align: center;
+}
+
+.sub-title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    margin: 10px;
+}
+.detailedAnalysisTab{
+    padding: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.detailedbutton{
+    background: #01565B;
+    border-radius: 8px;
+    color:#ABDF3C;
+    cursor:pointer;
+}
+.allrequestbutton{
+    background: #01565B;
+    border-radius: 8px;
+    color:#ABDF3C;
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    width: 180px;
+    cursor:pointer;
+}
+.allmeetingsbutton{
+    background: #01565B;
+    border-radius: 8px;
+    color:#ABDF3C;
+    width: 180px;
+    cursor:pointer;
+}
+button{
+    all:unset;
+    padding: 10px;
+    cursor:pointer;
+}
+.line-label{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+.upcomingMeetingsBlock{
+    width:30%;
+}
+.meetingRequestBlock{
+    position: relative;
+    width: 60%;
+    margin-left: 50px;
+}
+.lower{
+    margin-top:60px;
+    display: flex;
+}
+.card-title{
+    font-size: 25px;
+
+}

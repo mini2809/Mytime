@@ -1,0 +1,27 @@
+.header-container{
+    padding: 0 15px;
+    height: 60px;
+    background: rgba(67, 192, 155, 0.1);
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header-icons{
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icon-dimension{
+    height: 20px;
+    width: 20px;
+    cursor:pointer;
+}
+.logo-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 42px;
+    color: #483B3B;
+}
+
