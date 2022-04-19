@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mytime/static/css/main.d35a2408.css",
+    "main.css": "/Mytime/static/css/main.001563ce.css",
     "main.js": "/Mytime/static/js/main.b3bd90a2.js",
     "static/js/787.fbb23300.chunk.js": "/Mytime/static/js/787.fbb23300.chunk.js",
     "static/media/profile.svg": "/Mytime/static/media/profile.8b63315af1e5e77d438199c077eda0ac.svg",
@@ -13,12 +13,12 @@
     "static/media/c-Icon.svg": "/Mytime/static/media/c-Icon.7ae3a09ab238ba426caa83d9d7bdc20d.svg",
     "static/media/g-Icon.svg": "/Mytime/static/media/g-Icon.27cd4e4095213989bd11ae9b819863b4.svg",
     "static/media/t-Icon.svg": "/Mytime/static/media/t-Icon.cacbf7faa0628bb8545f712be61911b0.svg",
-    "main.d35a2408.css.map": "/Mytime/static/css/main.d35a2408.css.map",
+    "main.001563ce.css.map": "/Mytime/static/css/main.001563ce.css.map",
     "main.b3bd90a2.js.map": "/Mytime/static/js/main.b3bd90a2.js.map",
     "787.fbb23300.chunk.js.map": "/Mytime/static/js/787.fbb23300.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d35a2408.css",
+    "static/css/main.001563ce.css",
     "static/js/main.b3bd90a2.js"
   ]
 }
